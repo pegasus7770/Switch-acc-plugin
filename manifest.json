@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v6 - Switch Discord accounts silently + Revenge Settings API diagnostics.",
+  "authors": [
+    {
+      "name": "pegasus7770 v6",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "4af049e93b4f9760eef97419f6a100ffbbf5c09bac98c31ff705d535ab4f8d6d",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
