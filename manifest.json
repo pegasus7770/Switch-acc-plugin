@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v9 - Restores v6 Settings section (Account Switcher -> Switch Account) with working icon & screen.",
+  "authors": [
+    {
+      "name": "pegasus7770 v9",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "757c8d48c9a43ab12553ae213f49f53c34cd8ba5e667f721892fe7fbb1a8d2e1",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
