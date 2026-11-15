@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v11 - Fixes Switch Account click action via Metro navigation container & alert fallback.",
+  "authors": [
+    {
+      "name": "pegasus7770 v11",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "db7b93cc937e9bc4fa104499e61fde904ed62c038eacf09a68298f098ef7ac59",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
