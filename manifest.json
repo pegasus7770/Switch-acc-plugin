@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v10 - Working Switch Account row in Settings with BUNNY_CUSTOM_PAGE navigation & silent token switcher.",
+  "authors": [
+    {
+      "name": "pegasus7770 v10",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "03d63cb6a816487e9dd6602a26c2698ed2d03cf0c637825a663a566170cfec16",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
