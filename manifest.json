@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v14 - Glitch-free Switch Account dialog & silent token switcher.",
+  "authors": [
+    {
+      "name": "pegasus7770 v14",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "79832e863f6b4dfae439a7109d0e4091c57f8f84fbe4ae50082803a3d9a1e574",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
