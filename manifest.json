@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v17 - Clean minimalist Discord-style Account Switcher with persistent AsyncStorage & instant tap-to-switch.",
+  "authors": [
+    {
+      "name": "pegasus7770 v17",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "d0b172abb560c8ce1144c426f4e0402f988eac3ce4f81eef48bb4aa684207eb2",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
