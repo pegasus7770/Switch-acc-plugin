@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v7 - Injects Switch Account inside the Revenge Settings section & Log Out group.",
+  "authors": [
+    {
+      "name": "pegasus7770 v7",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "a47af8ab2b6b21e74ff934f206370ea2e2dd652bfe6d22beeef18bcf51e3d06e",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
