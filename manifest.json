@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v13 - Native Discord BottomSheet & Alert Account Switcher in main Settings.",
+  "authors": [
+    {
+      "name": "pegasus7770 v13",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "3cf555ebbb4848c353ed1fd8442c9e353240726fd5aaec1bf4549f76edaa641d",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
