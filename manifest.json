@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v16 - Full-screen Account Switcher directly from Settings > Switch Account with avatars, copy token & silent switch.",
+  "authors": [
+    {
+      "name": "pegasus7770 v16",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "cd1bf0d8ec79d99a688f882be8ea007c9cc2547db01d621e596c86b5dfb51a37",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
