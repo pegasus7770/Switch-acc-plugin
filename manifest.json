@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v8 - Working Switch Account button in Settings with native Modal screen & silent token switcher.",
+  "authors": [
+    {
+      "name": "pegasus7770 v8",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "2457f60c4f534a7854afcd994915cbc855a61a397a2d971eb71fee6a17a7adfa",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
