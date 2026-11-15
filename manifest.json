@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v15 - Native openModal & showAlert(content) Switch Account launcher + silent token switcher.",
+  "authors": [
+    {
+      "name": "pegasus7770 v15",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "99f85f8ccd3c02d300bc29b4d42aa26f2942bb9d0fcf459f17b1b6fba4aa07f0",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
