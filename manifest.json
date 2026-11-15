@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v3 - Native Revenge Settings section for Switch Account, silent token switcher & token copier.",
+  "authors": [
+    {
+      "name": "pegasus7770 v3",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "949c862af817a4d7b05e32991f369a7dc630d5cf41824686ccd33f986bc6565d",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
