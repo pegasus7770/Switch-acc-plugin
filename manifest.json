@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v5 - Switch Discord accounts silently without invalidating tokens.",
+  "authors": [
+    {
+      "name": "pegasus7770 v5",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "73415f9be0c264628764df0d637ff96699fba16e0c51b2c0fbc60b2b85d3c918",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
