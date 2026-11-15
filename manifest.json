@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v12 - Instant interactive Switch Account popup dialog in Settings & silent token switcher.",
+  "authors": [
+    {
+      "name": "pegasus7770 v12",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "3f933f7f0ccc8f9c8e6c296b9c91a4ae269d563a143fa4144ebf1941f5d5343a",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
