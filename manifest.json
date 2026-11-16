@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v21 - Choose between Native Discord Login (with Captcha/2FA support & auto-save) or By Token.",
+  "authors": [
+    {
+      "name": "pegasus7770 v21",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "6918494b99ae03606323019244b5b4c06d5c9931d7e78a5d3e074e63f985e12b",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
