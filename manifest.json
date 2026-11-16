@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v22 - Working Switch Account button + Embedded Discord Web Login (Captcha/2FA + auto token capture) + By Token.",
+  "authors": [
+    {
+      "name": "pegasus7770 v22",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "26d21b47edb63fb7fa1d19e758f54c4e60a0bb15610be64ed2f8185874fd5426",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
