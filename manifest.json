@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v23 - Safe Log Out (shields saved token from server invalidation, clears local Discord session, redirects to main Login screen & auto-saves new account).",
+  "authors": [
+    {
+      "name": "pegasus7770 v23",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "18f9ead2c60f22c4442ef1591dd36775acb32d67bdcc9fd022ca1eabf67583fb",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
