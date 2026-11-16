@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v20 - Stable v17 full-screen modal (single-host guarded) + persistent device file account storage.",
+  "authors": [
+    {
+      "name": "pegasus7770 v20",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "912e4a2e37e78d3d3b9cc776a50681f401525b4f1c466d9f6d6135a50498f3f5",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
