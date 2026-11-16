@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v24 - Fixed token vault persistence + safe local-only session reset (never calls AuthActions.logout).",
+  "authors": [
+    {
+      "name": "pegasus7770 v24",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "aae9edf416c0d6b9009931b3d36c5c7e4b2f2150f8d932c19ee7e0a35098c99e",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
