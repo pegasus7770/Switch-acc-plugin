@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "v19 - Working Switch Account button + zero conflict with other plugins + device file persistence.",
+  "authors": [
+    {
+      "name": "pegasus7770 v19",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "2551a357be876e48ccda4b7b3b939f96188de1f394b77c6c78a821b5a8adb896",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
